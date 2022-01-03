@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!--- 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Instagram -@myselfpar1](https://instagram.com/myselfpar1?utm_medium=copy_link)
+- 📫 How to reach me: [Instagram -@__parvan_](https://instagram.com/myselfpar1?utm_medium=copy_link)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 1 hours reading books everyday.
 
