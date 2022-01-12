@@ -12,4 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvans&langs_count=8)
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif"><img src="https://github.com/yujo11/yujo11/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%;"></a></p>
+
 
