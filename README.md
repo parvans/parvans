@@ -12,6 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvans&langs_count=8)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif"><img src="https://github.com/yujo11/yujo11/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%;"></a></p>
-
-
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6f25c4774e7b0905d2533705581aee55ea6f78767e33efff41406e91db21c175/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d736176696f6d617274696e"><img src="https://camo.githubusercontent.com/6f25c4774e7b0905d2533705581aee55ea6f78767e33efff41406e91db21c175/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d736176696f6d617274696e" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" style="max-width: 100%;"></a></p>
