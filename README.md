@@ -1,4 +1,4 @@
-# Hola, I'm Parvan S! 👋
+# Hola, I'm Parvan S! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;"></a>
 
 <!-- - 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Web Development
