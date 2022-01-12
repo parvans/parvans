@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!--- 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Instagram ](https://instagram.com/__parvan_?utm_medium=copy_link)
+- 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 1 hours reading books everyday.
 
