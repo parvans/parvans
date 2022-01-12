@@ -1,4 +1,4 @@
-### Hola, I'm Parvan S! 👋
+# Hola, I'm Parvan S! 👋
 
 <!-- - 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Web Development
