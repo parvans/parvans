@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvans&langs_count=8)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a64170b481e12094ba893534455368989f01cbce7ce0b049423f1315d0eacd07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d76656c6176613134313126"><img align="center" src="https://camo.githubusercontent.com/a64170b481e12094ba893534455368989f01cbce7ce0b049423f1315d0eacd07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d76656c6176613134313126" alt="parvans" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=parvans&amp;" style="max-width: 100%;"></a></p>
+
