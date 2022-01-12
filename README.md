@@ -1,7 +1,8 @@
 # Hola, I'm Parvan S! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;"></a>
 
 
-![giphy](https://user-images.githubusercontent.com/85297690/149080257-d29f75a8-1c3f-4382-81d0-e4b2cc4609dc.gif)
+![giphy](https://user-images.githubusercontent.com/85297690/149080721-35d134c1-ffd7-4e89-af3c-7b154ab57ee9.gif)
+
 
 <!-- - 🔭 I’m currently working on ...-->
 <!-- - 👯 I’m looking to collaborate on ... -->
