@@ -17,7 +17,7 @@
 <a href="https://twitter.com/P_23666" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvans" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/parvan-s-720306189/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvans" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/Parvan666/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parvans" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://instagram.com/___par1_?utm_medium=copy_link" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parvans" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/thisisparvan?utm_medium=copy_link" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parvans" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 ---
 
