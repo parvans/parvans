@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Web Development
 - - 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 1 hours reading books everyday. 
+- ⚡ Fun fact: Not only good this makes a person perfect. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parvan_sajeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvan_sajeevan" height="30" width="40" /></a>
