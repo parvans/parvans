@@ -1,13 +1,14 @@
 <h1 align="center" >Hola, I'm Parvan <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;float:right;"></a></h1>
 
-<!-- <p align="center">
-  <img alt="GIF"  src="https://camo.githubusercontent.com/7a231c6eb2e327730427df0dcc827c8a4fa2f012fdcbae81248069416466356c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313230313539322f73637265656e73686f74732f393037383439342f6d656469612f34323261373630613531636566376465326661336462396461663639373835332e676966" style="width: 500px;height: 354px;">
+<!-- <p>
+  <img alt="GIF"  src="https://camo.githubusercontent.com/7a231c6eb2e327730427df0dcc827c8a4fa2f012fdcbae81248069416466356c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313230313539322f73637265656e73686f74732f393037383439342f6d656469612f34323261373630613531636566376465326661336462396461663639373835332e676966" style="width: 500px;height: 354px;max-width: 100%;float: right;">
 </p> -->
 
 
-<!-- - 🔭 I’m currently working on ...-->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!--- 🤔 I’m looking for help with ... -->                                                                                                                                       <!-- - 💬 Ask me about ... -->
+
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...                                                                                                                                      - 💬 Ask me about ... 
 - 🌱 I’m currently learning Web Development
 - - 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
 - 😄 Pronouns: He/His
