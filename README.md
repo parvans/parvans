@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...                                                                                                                                      - 💬 Ask me about ... 
+- 🔭 I’m currently working on <a href="https://www.codiis.com/">Codiis</a>
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->                                                                                                                           - 💬 Ask me about Web development using MERN
 - 🌱 I’m currently learning Web Development
-- - 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
+- 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Not only good this makes a person perfect. 
 <h3 align="left">Connect with me:</h3>
