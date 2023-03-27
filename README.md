@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.codiis.com/">Codiis</a>
 - 💬 Ask me about Web development using MERN
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Not only good this makes a person perfect. 
