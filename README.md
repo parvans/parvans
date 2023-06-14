@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working at <a href="https://www.codiis.com/">Codiis</a>
 - 💬 Ask me about Web development using MERN
+- 🖥️</g-emoji>&nbsp; See my portfolio at <a href="https://parvans.github.io/" rel="nofollow">Parvan S</a></li>
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: <strong><a href="mailto:parvansajeevan@gmail.com">parvansajeevan@gmail.com</a></strong>
 - 😄 Pronouns: He/His
