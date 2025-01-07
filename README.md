@@ -1,6 +1,6 @@
 <h1 align="center" >Hola, I'm Parvan <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;float:right;"></a></h1>
 
-- 🔭 I’m currently working at <a href="https://www.codiis.com/">Codiis</a>
+- 🔭 I’m currently working at <a href="https://www.codiis.com/">Netsonic Solutions</a>
 - 💬 Ask me about Web development using MERN
 - 🖥️</g-emoji>&nbsp; See my portfolio at <a href="https://parvans.github.io/" rel="nofollow">Parvan S</a></li>
 - 🌱 I’m currently learning TypeScript
